@@ -34,7 +34,7 @@
         "East US 2"
       ],
       "metadata": {
-        "description": "Restrict  choice to where Premium Storage is available in the US."
+        "description": "Restrict choice to where Premium Storage is available in the US."
       }
     },
     "windowsOSVersion": {
