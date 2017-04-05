@@ -3,17 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "syStore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "sy2691"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeofDiskInGB": {
+      "value": "20"
     }
   }
 }
-
